@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="36" viewBox="0 0 120 36">
+  <text x="0" y="26" font-family="'Inter', 'SF Pro Display', system-ui, sans-serif"
+        font-weight="700" font-size="28" letter-spacing="-1" fill="#f4f4f5">tinker</text>
+  <rect x="0" y="31" width="16" height="2" rx="1" fill="#22c55e"/>
+</svg>
