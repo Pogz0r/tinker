@@ -1,6 +1,0 @@
-# Tinker v1 — Python dependencies
-# Install with: pip install -r requirements.txt
-
-nba_api==1.5.2           # Pulls stats from NBA.com (free, open-source)
-psycopg2-binary==2.9.10  # PostgreSQL database driver (connects Python to Supabase)
-python-dotenv==1.1.0     # Loads secrets from a .env file so you never hardcode passwords
